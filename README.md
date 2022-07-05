@@ -16,7 +16,6 @@ I love the entire process of developing creative apps. I love the challenge of f
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/nathan-kibet-5a7536235/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nathan Kibet| LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/knatek00"><img align="left" src="file:///C:/Users/natek/Downloads/twitter-svgrepo-com%20(1).svg" alt="Nathan Kibet| LinkedIn" width="21px"/></a>
 
 
 
